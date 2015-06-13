@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+It starts using all the tools we have in the directory. You need it to keep track of your
+changes and use the tools you have available through git or other version control system
