@@ -1,3 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 It starts using all the tools we have in the directory. You need it to keep track of your
 changes and use the tools you have available through git or other version control system
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is an intermediate area where you can prepare the next commit, it is useful to see the state of your changes
+and to help you decide and assemble the next commit you will want to make
+
+
